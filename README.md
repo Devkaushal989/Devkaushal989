@@ -116,40 +116,23 @@ A dynamic quiz platform enabling users to test their knowledge across multiple c
 </td>
 </tr>
 <tr>
+
 <td width="50%" valign="top">
 
-### 📦 [Project 3 Name — e.g. Task Manager Pro]
-**A MERN-based productivity & task management application**
+### 🚨 AlertMitra
+**A real-time alert & emergency notification platform**
 
-Enables users to create, organize, and track tasks with real-time updates and role-based team collaboration.
-
-**Key Features:**
-- ✅ CRUD operations with real-time updates
-- 👥 Role-based team collaboration
-- 📈 Dashboard with progress visualization
-- 🔒 Secure authentication with JWT
-
-**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `Bootstrap`
-
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/project-3)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
-
-</td>
-<td width="50%" valign="top">
-
-### 💼 [Project 4 Name — Optional]
-**Add a fourth MERN project here for stronger portfolio depth**
-
-Briefly describe the problem it solves and the impact/value delivered.
+A MERN-based application designed to send and manage critical alerts/notifications in real time, helping users stay informed and respond quickly during emergencies or important updates.
 
 **Key Features:**
-- Feature one
-- Feature two
-- Feature three
+- 🔔 Real-time alert broadcasting and notifications
+- 👤 User authentication with role-based access (JWT)
+- 📍 Location-based or category-based alert targeting
+- 📊 Admin dashboard for creating, managing, and tracking alerts
 
-**Tech Stack:** `React` `Node.js` `MongoDB`
+**Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/project-4)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/AlertMitra)
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
 
 </td>
@@ -168,9 +151,9 @@ Briefly describe the problem it solves and the impact/value delivered.
 <th>Key Achievements</th>
 </tr>
 <tr>
-<td><b>Your Company Name</b></td>
+<td><b>Codways Technologies</b></td>
 <td>MERN Stack Developer Intern</td>
-<td>Month Year – Month Year</td>
+<td>June 2026 – July 2026</td>
 <td>
 • Developed and shipped full-stack features using React, Node.js, Express, and MongoDB<br/>
 • Built and integrated RESTful APIs, improving data flow efficiency<br/>
@@ -205,19 +188,7 @@ Briefly describe the problem it solves and the impact/value delivered.
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&row=2&column=3" width="48%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&hide_border=true" width="97%"/>
-
-</div>
 
 <details>
 <summary><b>📈 Contribution Graph (Snake Animation)</b></summary>
@@ -235,10 +206,10 @@ Briefly describe the problem it solves and the impact/value delivered.
 
 <div align="center">
 
-<a href="https://github.com/YOUR-GITHUB-USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Devkaushal989"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dev-kaushal-880a0928a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:devkaushal989@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://devkaushal.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
 
