@@ -7,8 +7,8 @@
 </a>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views&color=00c6ff&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/YOUR-GITHUB-USERNAME?label=Followers&style=flat-square&color=0f2027" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Devkaushal989&label=Profile%20Views&color=00c6ff&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Devkaushal989?label=Followers&style=flat-square&color=0f2027" alt="Followers"/>
   <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" alt="Open to Work"/>
 </p>
 
