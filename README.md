@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently pursuing my degree in Computer Science / IT *(update with your current institution & year)*, with a strong academic foundation in data structures, algorithms, and software engineering principles.
+- 🎓 Currently pursuing my degree in Computer Science at Geeta University(2023-2027)*, with a strong academic foundation in data structures, algorithms, and software engineering principles.
 - 💻 Passionate **Full Stack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React, Node.js), focused on building fast, scalable, and user-centric web applications.
 - ⚡ Deep interest in designing **RESTful APIs** and backend architectures that are secure, well-documented, and production-ready.
 - 🏗️ Enthusiastic about building **scalable applications** with clean architecture, reusable components, and maintainable code.
@@ -91,8 +91,8 @@ Connects students with relevant internship opportunities through a streamlined, 
 
 **Tech Stack:** `React` `Redux` `Node.js` `Express.js` `MongoDB` `JWT`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/InternBuddy)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR-GITHUB-USERNAME/InternBuddy](https://github.com/Devkaushal989/Intership-Apply-and-Tracker))
+
 
 </td>
 <td width="50%" valign="top">
@@ -110,8 +110,8 @@ A dynamic quiz platform enabling users to test their knowledge across multiple c
 
 **Tech Stack:** `React` `JavaScript` `Node.js` `Express.js` `MongoDB`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/Quiz-o-tron)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR-GITHUB-USERNAME/Quiz-o-tron](https://github.com/Devkaushal989/Quiz-portal-))
+
 
 </td>
 </tr>
@@ -132,8 +132,8 @@ A MERN-based application designed to send and manage critical alerts/notificatio
 
 **Tech Stack:** `React` `Node.js` `Express.js` `MongoDB` `JWT`
 
-[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR-GITHUB-USERNAME/AlertMitra)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://your-live-demo-link.com)
+[![GitHub](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR-GITHUB-USERNAME/AlertMitra](https://github.com/Devkaushal989/AlertMitra-EmergencySOS-))
+
 
 </td>
 </tr>
@@ -175,16 +175,15 @@ A MERN-based application designed to send and manage critical alerts/notificatio
   <img src="https://img.shields.io/badge/Certification_Name_3-Issuing_Platform-green?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
 </p>
 
-> 📝 *Replace with your actual certifications (e.g., "MERN Stack Certification – Coursera", "JavaScript Algorithms & Data Structures – freeCodeCamp", "Power BI – Microsoft").*
 
 ---
 
 ## 🌟 Achievements
 
-- 🏅 *Add achievement — e.g., "Ranked in top X% on LeetCode/GFG with 200+ problems solved"*
-- 🏅 *Add achievement — e.g., "Winner/Finalist at [Hackathon Name]"*
-- 🏅 *Add achievement — e.g., "Built and deployed 3+ full-stack production-ready applications"*
-- 🏅 *Add achievement — e.g., "Contributed to open-source projects on GitHub"*
+- 🏅 *Recognized among the Top 6 Full Stack Development Interns — July 2026 Edition*
+- 🏅 *Completed multiple industry internships in Frontend and MERN Stack Development*
+- 🏅 *Built multiple MERN-based full-stack applications, including AlertMitra and an E-commerce Platform*
+- 🏅 *Earned NPTEL certifications*
 
 ---
 
