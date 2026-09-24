@@ -163,17 +163,21 @@ A MERN-based application designed to send and manage critical alerts/notificatio
 </tr>
 </table>
 
-> 📝 *Replace the details above with your actual internship company, role title, duration, and 3–4 quantified achievements (e.g., "reduced API response time by 30%", "built 5+ reusable components used across the app").*
+> 
 
 ---
 
 ## 🏆 Certifications
 
-<p>
-  <img src="https://img.shields.io/badge/Certification_Name_1-Issuing_Platform-blue?style=for-the-badge&logo=coursera&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certification_Name_2-Issuing_Platform-orange?style=for-the-badge&logo=udemy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Certification_Name_3-Issuing_Platform-green?style=for-the-badge&logo=freecodecamp&logoColor=white"/>
-</p>
+- **NPTEL – Philosophy and Critical Thinking** — IIT Dhanbad | 75%
+- **NPTEL – Design Thinking: A Primer** | 66%
+- **HackerRank – JavaScript Certification**
+- **DataFlair – Full Stack Development Training**
+- **Physics Wallah – Full Stack Masterclass**
+- **OctaNet Services – Web Development Internship Certificate**
+- **AWS Summit India Online 2025 – Participation**
+- **YHills – SQL Bootcamp**
+- **SkillEcted – API Bootcamp**
 
 
 ---
